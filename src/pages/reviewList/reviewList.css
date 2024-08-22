@@ -1,0 +1,16 @@
+.reviewList {
+    flex: 4;
+    padding: 20px;
+  }
+  
+  .reviewListDelete{
+      color: red;
+      cursor: pointer;
+  }
+
+  .reviewTitleContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }

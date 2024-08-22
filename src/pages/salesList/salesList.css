@@ -1,0 +1,13 @@
+.salesList {
+    flex: 4;
+    padding: 20px;
+  }
+  
+  
+
+  .salesTitleContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
